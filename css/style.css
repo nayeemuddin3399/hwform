@@ -1,0 +1,41 @@
+.wrapper{
+	width: 60%;
+	margin: 0 auto;
+	border: 2px solid black;
+
+}
+.label{
+	font-size: 25px;
+
+
+}
+.first-name, .last-name, .email, .password, .date, .educaction, .qualify-year, .file{
+	width: 92%;
+	height: 25px;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.message{
+	width: 95%;
+}
+
+table{
+	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
+
+
+
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+
+}
+
+caption{
+	font-size: 30px;
+	text-align: center;
+}
+
